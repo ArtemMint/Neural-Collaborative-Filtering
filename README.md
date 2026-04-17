@@ -72,10 +72,7 @@ Training and validation loss were tracked over 30 epochs. Predictions on the tes
 ```
 Neural-Collaborative-Filtering/
 ├── Dyploma_CNN_RS.ipynb   # Full pipeline: data loading, model, training, evaluation
-├── datasets/
-│   ├── movies.csv
-│   ├── movies_metadata.csv
-│   └── movies_ratings.csv
+├── datasets.zip
 └── README.md
 ```
 
