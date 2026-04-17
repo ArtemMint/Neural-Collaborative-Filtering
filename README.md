@@ -115,5 +115,5 @@ The project explores neural embedding-based approaches to collaborative filterin
 
 ## References
 
-- He et al., [Neural Collaborative Filtering (2017)](https://arxiv.org/abs/1708.05031)
+- [Neural Collaborative Filtering (2017)](https://arxiv.org/abs/1708.05031)
 - [MovieLens Dataset — GroupLens](https://grouplens.org/datasets/movielens/)
