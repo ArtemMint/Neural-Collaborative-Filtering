@@ -1,4 +1,4 @@
-# Neural Collaborative Filtering — Movie Recommendation System
+# Neural Collaborative Filtering - Movie Recommendation System
 
 A deep learning-based recommendation system developed as a Master's thesis in Software Engineering.  
 The model learns user and movie latent representations via embedding layers and predicts personalized ratings using a neural network.
@@ -7,7 +7,7 @@ The model learns user and movie latent representations via embedding layers and 
 
 ## How It Works
 
-The model uses **Neural Collaborative Filtering (NCF)** — instead of classical matrix factorization, user-item interactions are learned by a neural network that can capture non-linear patterns.
+The model uses **Neural Collaborative Filtering (NCF)** - instead of classical matrix factorization, user-item interactions are learned by a neural network that can capture non-linear patterns.
 
 Each user and each movie is mapped to a dense embedding vector (latent factors). These vectors are concatenated and passed through fully connected layers to predict the rating a user would give a movie.
 
